@@ -4,7 +4,7 @@ SADPonzi is a detection for Ponzi scheme smart contracts (ponzitract) base on sy
 
 
 
-### [Ground Truth Benchmark](https://github.com/Kenun99/SADPonzi/tree/main/dataset/rq1)
+### Ground Truth Benchmark[link](https://github.com/Kenun99/SADPonzi/tree/main/dataset/rq1)
 
 We filter the dataset used in https://github.com/blockchain-unica/ethereum-ponzi and get 133 ground truth ponzitracts (see our paper for details). At the meantimes, we collect 1262 DApp as non-Ponzi cases from dapptotal.com.  
 
@@ -12,13 +12,13 @@ We filter the dataset used in https://github.com/blockchain-unica/ethereum-ponzi
 
 
 
-### [Robustness Benchark](https://github.com/Kenun99/SADPonzi/tree/main/dataset/rq2)
+### Robustness Benchark[link](https://github.com/Kenun99/SADPonzi/tree/main/dataset/rq2)
 
 We generate four groups of data for the robustness experiment.
 
 
 
-### [Large Scale Dataset](https://github.com/Kenun99/SADPonzi/tree/main/dataset/rq3)
+### Large Scale Dataset[link](https://github.com/Kenun99/SADPonzi/tree/main/dataset/rq3)
 
 We apply SADPonzi to all the 3.4 million smart contracts deployed by EOAs in Ethereum and identify 835 Ponzi scheme smart contracts in total, with a volume of over 17 million US Dollar invested from victims. .
 
