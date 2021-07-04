@@ -28,7 +28,7 @@ We apply SADPonzi to all the 3.4 million smart contracts deployed by EOAs in Eth
 
 ## Academia
 
-Our paper [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://dl.acm.org/doi/10.1145/3460093) was published at the [Sigmetrics' 21]([ACM SIGMETRICS 2021 | Home](https://www.sigmetrics.org/sigmetrics2021/)).
+Our paper [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://dl.acm.org/doi/10.1145/3460093) was published at the [ACM Sigmetrics' 21](https://www.sigmetrics.org/sigmetrics2021/).
 
 ```
 @article{10.1145/3460093,
