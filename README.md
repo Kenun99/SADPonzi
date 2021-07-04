@@ -28,9 +28,24 @@ We apply SADPonzi to all the 3.4 million smart contracts deployed by EOAs in Eth
 
 ## Academia
 
-Our paper [**SADPonzi: Detecting and Characterizing Ponzi Schemes inEthereum Smart Contracts**]( ) was published at the [XXX ](http://xxx.com) ([slides](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_krupp.pdf)).
+Our paper [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://dl.acm.org/doi/10.1145/3460093) was published at the [Sigmetrics' 21]([ACM SIGMETRICS 2021 | Home](https://www.sigmetrics.org/sigmetrics2021/)).
 
 ```
-
+@article{10.1145/3460093,
+author = {Chen, Weimin and Li, Xinran and Sui, Yuting and He, Ningyu and Wang, Haoyu and Wu, Lei and Luo, Xiapu},
+title = {SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts},
+year = {2021},
+issue_date = {June 2021},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {5},
+number = {2},
+url = {https://doi.org/10.1145/3460093},
+doi = {10.1145/3460093},
+journal = {Proc. ACM Meas. Anal. Comput. Syst.},
+month = jun,
+articleno = {26},
+numpages = {30},
+keywords = {symbolic execution, smart contract, ethereum, Ponzi scheme}
+}
 ```
-
