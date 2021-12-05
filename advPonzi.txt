@@ -1,0 +1,732 @@
+Begin Benchmark at 2021年 01月 28日 星期四 10:39:31 CST
+[+] ============= Processing 0x00677ec3e34d9eb794f2eba943f43bf0639cce5d.bin===================
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/bin/gen_exploit.py", line 128, in <module>
+    config['savefile'], config['initial-storage'], config['initial-balance'], config['flags'], 10)
+  File "/home/toor/SADPonzi/teether/bin/gen_exploit.py", line 36, in main
+    code = bytes.fromhex(inbuffer)
+ValueError: non-hexadecimal number found in fromhex() arg at position 3834
+[+] ============= Processing 0x0000000000085d4780b73119b644ae5ecd22b376.bin===================
+[+] ============= Processing 0x4fabb145d64652a948d72533023f6e7a623c7c53.bin===================
+[+] ============= Processing 0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3.bin===================
+[+] ============= Processing 0x43820f75f021c34ce13ded1595633ed39b79ab47.bin===================
+[+] ============= Processing 0x04023aa3cee210695fa7fe237b1d8d4a91cee469.bin===================
+[+] ============= Processing 0x45321004790a4dae7ba19217a10574d55739efc7.bin===================
+[+] ============= Processing 0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x0000000000085d4780b73119b644ae5ecd22b376.bin
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x4fabb145d64652a948d72533023f6e7a623c7c53.bin
+[+] ============= Processing 0x4f878c0852722b0976a955d68b376e4cd4ae99e5.bin===================
+[+] ============= Processing 0x190e569be071f40c704e15825f285481cb74b6cc.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3.bin
+[+] ============= Processing 0x12a35383ca24ceb44cdcbbecbeb7baccb5f3754a.bin===================
+[+] ============= Processing 0x151b11892dd6ab1f91055dcd01d23d03a2c47570.bin===================
+[+] ============= Processing 0x2e954cfc5cb4f089f5f3d7331449861249106d85.bin===================
+[+] ============= Processing 0x0b3ebeccc00e9ceae2bf3235d558eda7398be91e.bin===================
+[+] ============= Processing 0x0ffab58ea5a71cc3ca40217706c3c401407fa4a8.bin===================
+1 1
+find a path [0, 13, 92, 104, 309, 360]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x43820f75f021c34ce13ded1595633ed39b79ab47.bin
+[+] ============= Processing 0x503f7065978c3b521e25d8b4a819b7bef6108a9e.bin===================
+[+] ============= Processing 0x584af734a101538cad9b9522d1b9c87f1c08f9c4.bin===================
+[+] ============= Processing 0x5a37ae1b841c0cd4c394d6c58c81c1a166f54053.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x584af734a101538cad9b9522d1b9c87f1c08f9c4.bin
+[+] ============= Processing 0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.bin===================
+[+] ============= Processing 0x607a5c47978e2eb6d59c6c6f51bc0bf411f4b85a.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x607a5c47978e2eb6d59c6c6f51bc0bf411f4b85a.bin
+[+] ============= Processing 0x79c1fdaba012b9a094c495a86ce5c6199cf86368.bin===================
+[+] ============= Processing 0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba.bin===================
+[+] ============= Processing 0x5199071825cc1d6cd019b0d7d42b08106f6cf16d.bin===================
+0 2
+find a path [0, 13, 65, 179, 191, 350, 442, 505]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 246, 258, 509, 601, 665]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x5a37ae1b841c0cd4c394d6c58c81c1a166f54053.bin
+0 3
+find a path [0, 13, 65, 190, 202, 405, 496, 560]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 344, 356, 601, 693, 947]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 344, 356, 601, 693, 1013]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x04023aa3cee210695fa7fe237b1d8d4a91cee469.bin
+[+] ============= Processing 0x81b4d08645da11374a03749ab170836e4e539767.bin===================
+[+] ============= Processing 0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c.bin===================
+1 2
+find a path [0, 13, 103, 115, 487, 578, 616, 741]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 420, 432, 834, 925, 985, 1171]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x79c1fdaba012b9a094c495a86ce5c6199cf86368.bin
+[+] ============= Processing 0x8243607e1e1e05aa7087691e4447c0e8495e23bf.bin===================
+0 2
+find a path [0, 13, 65, 76, 222, 234, 402, 813, 827, 486, 552]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 222, 234, 402, 813, 827, 486, 838, 858, 635, 701]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x45321004790a4dae7ba19217a10574d55739efc7.bin
+[+] ============= Processing 0x82b0e50478eeafde392d45d1259ed1071b6fda81.bin===================
+0 2
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 690, 702, 1003, 1041, 1100, 1179, 1190, 1332, 1408]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 690, 702, 1003, 1041, 1100, 1179, 1190, 1332, 1485]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9.bin
+[+] ============= Processing 0x8853b05833029e3cf8d3cbb592f9784fa43d2a79.bin===================
+2 2
+find a path [0, 13, 92, 104, 299, 781, 795, 381, 447]
+[dubug] collect invest 0 act
+find a path [0, 13, 92, 104, 299, 781, 795, 381, 806, 826, 530, 596]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x82b0e50478eeafde392d45d1259ed1071b6fda81.bin
+[+] ============= Processing 0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2.bin===================
+0 6
+find a path [0, 13, 182, 194, 1190, 1269, 1410, 1549, 1624]
+[dubug] collect invest 0 act
+find a path [0, 13, 182, 194, 1190, 1269, 1410, 1549, 1700]
+[dubug] collect invest 0 act
+find a path [0, 13, 182, 194, 1190, 1269, 1410, 1549, 1838]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 546, 558, 2147, 2163, 2240, 2380, 2455]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 546, 558, 2147, 2163, 2240, 2380, 2531]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 734, 746, 2715, 2794, 2922]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x4f878c0852722b0976a955d68b376e4cd4ae99e5.bin
+[+] ============= Processing 0x8ac16c08105de55a02e2b7462b1eec6085fa4d86.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x8ac16c08105de55a02e2b7462b1eec6085fa4d86.bin
+0 6
+find a path [0, 13, 193, 205, 1405, 1481, 1622, 1698]
+[dubug] collect invest 0 act
+find a path [0, 13, 193, 205, 1405, 1481, 1622, 1775]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 270, 282, 1881, 2012]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 607, 619, 2210, 2288, 2429, 2566, 2642]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 607, 619, 2210, 2288, 2429, 2566, 2719]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 607, 619, 2210, 2288, 2429, 2566, 2857]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x12a35383ca24ceb44cdcbbecbeb7baccb5f3754a.bin
+0 6
+find a path [0, 13, 65, 76, 255, 267, 1067, 1209, 1219, 1347]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 451, 463, 1588, 1612, 3113, 3168, 3180, 3133, 1821, 1887]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 451, 463, 1588, 1612, 3113, 3168, 3180, 3133, 1821, 3143, 3168, 3180, 3157, 1970, 2036]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 451, 463, 1588, 1612, 3113, 3168, 3180, 3133, 1821, 3143, 3168, 3180, 3157, 1970, 3143, 3168, 3180, 3157, 2056, 2183]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 935, 947, 2681, 2703, 3143, 3168, 3180, 3157, 2785, 2851]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 935, 947, 2681, 2703, 3143, 3168, 3180, 3157, 2785, 3113, 3168, 3180, 3133, 2934, 3000]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e.bin
+[+] ============= Processing 0x8e870d67f660d95d5be530380d0ec0bd388289e1.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x8e870d67f660d95d5be530380d0ec0bd388289e1.bin
+[+] ============= Processing 0x912b8f85e28b9ec196b48228159e2f13546836e6.bin===================
+4 7
+find a path [0, 13, 191, 203, 1209, 1372, 1673, 1693, 4436, 4455, 1804, 1895]
+call--s2= 0
+[dubug] collect invest 0 act
+find a path [0, 13, 191, 203, 1209, 1372, 1673, 1693, 4436, 4455, 1804, 4436, 4455, 1978, 2044]
+call--s2= 0
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 929, 941, 3437, 3600, 5025, 5039, 3707, 3798]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 929, 941, 3437, 3600, 5025, 5039, 3707, 5025, 5039, 3881, 3947]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 601, 613, 2821, 2913, 3148, 3333]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 1095, 1107, 4143, 4235, 4401]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 314, 326, 2223, 2315, 4551, 4611, 4799]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x5199071825cc1d6cd019b0d7d42b08106f6cf16d.bin
+[+] ============= Processing 0xa08b00eb41a452540c44e953d9ee86f86793af55.bin===================
+[+] ============= Processing 0x9a5ed399a3b656e138517d0a88cad999c58a3c79.bin===================
+[+] ============= Processing 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.bin
+0 6
+find a path [0, 13, 65, 76, 87, 519, 531, 1528, 1656]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 740, 752, 1920, 1940, 2019, 2030, 2106]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 740, 752, 1920, 1940, 2019, 2030, 2183]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 817, 829, 2290, 2493, 2505, 2516, 2592]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 817, 829, 2290, 2493, 2505, 2516, 2669]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 817, 829, 2290, 2493, 2505, 2516, 2807]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x190e569be071f40c704e15825f285481cb74b6cc.bin
+[+] ============= Processing 0xa8f93faee440644f89059a2c88bdc9bf3be5e2ea.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xa8f93faee440644f89059a2c88bdc9bf3be5e2ea.bin
+[+] ============= Processing 0xa0c81655e84c31c4c5bd86d7f927f8cbe3c8a806.bin===================
+0 1
+find a path [0, 13, 65, 168, 180, 272, 363, 423, 609]
+[dubug] collect invest 0 act
+[] []
+0 1
+find a path [0, 13, 65, 76, 87, 280, 292, 1105, 1196, 1256, 1442]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x912b8f85e28b9ec196b48228159e2f13546836e6.bin
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xa08b00eb41a452540c44e953d9ee86f86793af55.bin
+[+] ============= Processing 0xaf1745c0f8117384dfa5fff40f824057c70f2ed3.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xaf1745c0f8117384dfa5fff40f824057c70f2ed3.bin
+0 8
+find a path [0, 13, 65, 255, 267, 900, 2824, 2844, 1112, 1178]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 255, 267, 900, 2824, 2844, 1112, 2854, 2868, 1261, 1327]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 255, 267, 900, 2824, 2844, 1112, 2854, 2868, 1261, 2854, 2868, 1347, 1474]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 388, 400, 1588, 1728, 1739, 1867]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 489, 501, 1979, 2854, 2868, 2063, 2129]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 489, 501, 1979, 2854, 2868, 2063, 2824, 2844, 2212, 2278]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 590, 602, 2390, 2406, 2484, 2854, 2868, 2569, 2635]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 590, 602, 2390, 2406, 2484, 2854, 2868, 2569, 2854, 2868, 2657, 2662]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x0ffab58ea5a71cc3ca40217706c3c401407fa4a8.bin
+[+] ============= Processing 0xaf4dce16da2877f8c9e00544c93b62ac40631f16.bin===================
+[+] ============= Processing 0xb20bb2780a6ae9e399e805ce4f60321245f7a0db.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xaf4dce16da2877f8c9e00544c93b62ac40631f16.bin
+[+] ============= Processing 0xb45a50545beeab73f38f31e5973768c421805e5e.bin===================
+[+] ============= Processing 0xcca95e580bbbd04851ebfb85f77fd46c9b91f11c.bin===================
+[+] ============= Processing 0xd3c00772b24d997a812249ca637a921e81357701.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xd3c00772b24d997a812249ca637a921e81357701.bin
+0 1
+find a path [0, 13, 65, 168, 180, 272, 363, 426]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xb20bb2780a6ae9e399e805ce4f60321245f7a0db.bin
+[+] ============= Processing 0xddb5bfae38ce17f3ad300dd635f30acbcc275287.bin===================
+1 1
+find a path [0, 13, 81, 93, 235, 326, 389]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xcca95e580bbbd04851ebfb85f77fd46c9b91f11c.bin
+[+] ============= Processing 0xe083515d1541f2a9fd0ca03f189f5d321c73b872.bin===================
+0 1
+find a path [0, 13, 65, 168, 180, 272, 363, 418, 480]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xb45a50545beeab73f38f31e5973768c421805e5e.bin
+[+] ============= Processing 0xe2e6d4be086c6938b53b22144855eef674281639.bin===================
+0 6
+find a path [0, 13, 65, 76, 87, 98, 644, 656, 1642, 1845, 1852, 1857, 1868, 1944]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 644, 656, 1642, 1845, 1852, 1857, 1868, 2021]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 644, 656, 1642, 1845, 1852, 1857, 1868, 2159]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 872, 884, 2401, 2421, 2500, 2511, 2587]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 872, 884, 2401, 2421, 2500, 2511, 2664]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 949, 961, 2771, 2899]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x81b4d08645da11374a03749ab170836e4e539767.bin
+[+] ============= Processing 0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1.bin===================
+[+] ============= Processing 0xeafd335c0e72bb89857972ee7a3ba90bd5a2f7fd.bin===================
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xeafd335c0e72bb89857972ee7a3ba90bd5a2f7fd.bin
+0 1
+find a path [0, 13, 65, 168, 180, 272, 363, 418, 480]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xe2e6d4be086c6938b53b22144855eef674281639.bin
+[+] ============= Processing 0xfd74f0ce337fc692b8c124c094c1386a14ec7901.bin===================
+[+] ============= Processing 0xf433089366899d83a9f26a773d59ec7ecf30355e.bin===================
+1 1
+find a path [0, 36, 104, 116, 379, 413, 450, 531]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x503f7065978c3b521e25d8b4a819b7bef6108a9e.bin
+0 6
+find a path [0, 13, 65, 212, 224, 782, 987, 994, 999, 1138, 1144, 3013, 3027, 1225, 1291]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 212, 224, 782, 987, 994, 999, 1138, 1144, 3013, 3027, 1225, 3013, 3027, 1435, 1562]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 212, 224, 782, 987, 994, 999, 1006, 1138, 1144, 3013, 3027, 1225, 3013, 3027, 1435, 3038, 3057, 3062, 3070, 1645, 1711]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 345, 357, 1834, 1915, 2054, 2060, 3013, 3027, 2141, 2207]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 345, 357, 1834, 1915, 2054, 2060, 3013, 3027, 2141, 3038, 3062, 3070, 2290, 2356]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 446, 458, 2478, 2618, 2629, 2757]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2.bin
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+0 6
+find a path [0, 13, 65, 304, 316, 1661, 1791]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 677, 689, 2313, 2404, 2490]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 1030, 1042, 2807, 2948, 3085]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 197, 1562, 1574, 3346, 3437, 3500]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 576, 588, 2290, 3504, 3542, 3620, 3763, 3852, 3941, 4017]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 576, 588, 2290, 3504, 3542, 3620, 3763, 3852, 3941, 4094]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xa0c81655e84c31c4c5bd86d7f927f8cbe3c8a806.bin
+0 6
+find a path [0, 13, 65, 244, 256, 772, 914, 924, 1052]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 321, 333, 1158, 1180, 2367, 2422, 2434, 2381, 1262, 1328]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 321, 333, 1158, 1180, 2367, 2422, 2434, 2381, 1262, 2392, 2422, 2434, 2412, 1411, 1477]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 485, 497, 1657, 1681, 2392, 2422, 2434, 2412, 1890, 1956]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 485, 497, 1657, 1681, 2392, 2422, 2434, 2412, 1890, 2367, 2422, 2434, 2381, 2039, 2105]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 485, 497, 1657, 1681, 2392, 2422, 2434, 2412, 1890, 2367, 2422, 2434, 2381, 2039, 2367, 2422, 2434, 2381, 2125, 2252]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xf433089366899d83a9f26a773d59ec7ecf30355e.bin
+1 8
+find a path [0, 13, 114, 126, 568, 656, 660, 699, 741, 2974, 765, 771, 812, 853, 893, 933]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 190, 202, 1240, 3053, 1248, 1334, 1468]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 190, 202, 1240, 3053, 1248, 1334, 1517]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 190, 202, 1240, 3053, 1248, 1334, 1527]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 190, 202, 1240, 3053, 1248, 1334, 1565]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 190, 202, 1240, 3053, 1248, 1334, 1604]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 190, 202, 1240, 3053, 1248, 1334, 1637]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 364, 376, 1895, 1984, 1992, 2031, 2072, 2113, 2156, 2186, 2227, 2267]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xe083515d1541f2a9fd0ca03f189f5d321c73b872.bin
+0 6
+find a path [0, 13, 114, 126, 583, 2252, 2272, 793, 858]
+[dubug] collect invest 0 act
+find a path [0, 13, 114, 126, 583, 2252, 2272, 793, 2282, 2296, 940, 1005]
+[dubug] collect invest 0 act
+find a path [0, 13, 114, 126, 583, 2252, 2272, 793, 2282, 2296, 940, 2282, 2296, 1025, 1152]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 310, 322, 1332, 1474, 1484, 1612]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 387, 399, 1718, 2282, 2296, 1799, 1864]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 387, 399, 1718, 2282, 2296, 1799, 2252, 2272, 1946, 2011]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xfd74f0ce337fc692b8c124c094c1386a14ec7901.bin
+1 10
+find a path [0, 13, 279, 291, 2079, 2209]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 380, 392, 2321, 2341, 4309, 4326, 2414, 2480]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 380, 392, 2321, 2341, 4309, 4326, 2414, 4309, 4326, 2615, 2742]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 380, 392, 2321, 2341, 4309, 4326, 2414, 4309, 4326, 2615, 4472, 4494, 2816, 2882]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 600, 612, 3068, 3088, 4309, 4326, 3161, 3227]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 600, 612, 3068, 3088, 4309, 4326, 3161, 4472, 4494, 3301, 3367]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 744, 756, 3554, 3684]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 197, 208, 1608, 1620, 4622, 4714, 4968]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 197, 208, 1608, 1620, 4622, 4714, 5034]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 197, 208, 219, 1631, 1643, 5037, 5128, 5192]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba.bin
+2 11
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 719, 764, 801, 817]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 719, 739, 764, 801, 817]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 719, 764, 801, 817]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 719, 739, 764, 801, 817]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 719, 764, 801, 817]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 719, 739, 764, 801, 817]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 701, 692, 719, 764, 801, 817]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 701, 692, 719, 739, 764, 801, 817]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 701, 692, 701, 692, 719, 764, 801, 817]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 701, 692, 701, 692, 719, 739, 764, 801, 817]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 719, 764, 801, 904]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 719, 739, 764, 801, 904]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 719, 764, 801, 904]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 719, 739, 764, 801, 904]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 719, 764, 801, 904]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 719, 739, 764, 801, 904]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 701, 692, 719, 764, 801, 904]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 701, 692, 719, 739, 764, 801, 904]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 701, 692, 701, 692, 719, 764, 801, 904]
+error: sym
+find a path [0, 13, 103, 115, 566, 1224, 582, 692, 701, 692, 701, 692, 701, 692, 701, 692, 719, 739, 764, 801, 904]
+error: sym
+[] []
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 144, in get_constraints
+    yield ins, path, self.run_symbolic(path, inclusive)
+  File "/home/toor/SADPonzi/teether/teether/project.py", line 78, in run_symbolic
+    return run_symbolic(self.prg, path, self.code, ctx=ctx, inclusive=inclusive)
+  File "/home/toor/SADPonzi/teether/teether/evm/evm.py", line 621, in run_symbolic
+    raise SymbolicError('Symbolic code index @ %s' % ins)
+teether.evm.exceptions.SymbolicError: Symbolic code index @ ( 1236)  4d4:	39	-3 +0 = -3	CODECOPY
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x9a5ed399a3b656e138517d0a88cad999c58a3c79.bin
+1 10
+find a path [0, 13, 246, 258, 1789, 1919]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 577, 589, 2270, 5351, 5368, 2354, 2420]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 577, 589, 2270, 5351, 5368, 2354, 5351, 5368, 2564, 2691]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 577, 589, 2270, 5351, 5368, 2354, 5351, 5368, 2564, 5379, 5401, 2774, 2840]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 1120, 1132, 3246, 3376]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 1378, 1390, 3875, 5351, 5368, 3959, 4025]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 1378, 1390, 3875, 5351, 5368, 3959, 5379, 5401, 4108, 4174]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 197, 1479, 1491, 4286, 4378, 4632]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 197, 1479, 1491, 4286, 4378, 4698]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 197, 208, 219, 1621, 1633, 4836, 4927, 4991]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x2e954cfc5cb4f089f5f3d7331449861249106d85.bin
+0 8
+find a path [0, 13, 65, 335, 347, 1371, 1574, 1581, 1586, 1597, 1673]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 335, 347, 1371, 1574, 1581, 1586, 1597, 1750]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 335, 347, 1371, 1574, 1581, 1586, 1597, 1888]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 841, 853, 2380, 2400, 2479, 2490, 2566]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 841, 853, 2380, 2400, 2479, 2490, 2643]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 918, 930, 2750, 2763, 2855, 2931]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 918, 930, 2750, 2763, 2855, 2946]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 1136, 1148, 3000, 3128]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xddb5bfae38ce17f3ad300dd635f30acbcc275287.bin
+7 8
+find a path [0, 13, 65, 76, 324, 336, 1610, 3441, 3461, 1822, 3416, 3430, 1971, 3416, 3430, 2057, 2184]
+[dubug] collect invest 0 act
+find a path [0, 13, 180, 192, 1183, 3416, 3430, 1267, 1333]
+[dubug] collect invest 0 act
+find a path [0, 13, 180, 192, 1183, 3416, 3430, 1267, 3441, 3461, 1416, 1482]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 324, 336, 1610, 3441, 3461, 1822, 1888]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 324, 336, 1610, 3441, 3461, 1822, 3416, 3430, 1971, 2037]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 457, 469, 2298, 2314, 2392, 3416, 3430, 2477, 2543]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 457, 469, 2298, 2314, 2392, 3416, 3430, 2477, 3416, 3430, 2565, 2570]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 502, 514, 2653, 2793, 2804, 2932]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1.bin
+0 13
+find a path [0, 13, 65, 76, 87, 98, 109, 672, 684, 2045, 2137, 2192, 2255]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 739, 751, 2260, 2354, 2382, 2408]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 829, 841, 2466, 2560, 2587, 2613]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 876, 888, 2665, 2793]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 1145, 1157, 3055, 3083, 3540, 4624, 4638, 3622, 3688]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 1145, 1157, 3055, 3083, 3540, 4624, 4638, 3622, 4649, 4669, 3771, 3837]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 197, 208, 219, 1443, 1455, 3361, 3389, 3943, 4649, 4669, 4154, 4220]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 197, 208, 219, 1443, 1455, 3361, 3389, 3943, 4649, 4669, 4154, 4624, 4638, 4303, 4369]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 98, 109, 120, 131, 142, 153, 164, 175, 186, 197, 208, 219, 1443, 1455, 3361, 3389, 3943, 4649, 4669, 4154, 4624, 4638, 4303, 4624, 4638, 4389, 4516]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 520, 532, 1908, 2000, 4679, 4728, 4739]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 520, 532, 1908, 2000, 4679, 4744, 4752]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 520, 532, 1908, 2000, 4679, 4744, 4759, 4762, 4771, 4774]
+[dubug] collect invest 0 act
+find a path [0, 13, 65, 76, 87, 520, 532, 1908, 2000, 4679, 4728, 4790, 4807, 4813, 4822, 4828]
+[dubug] collect invest 0 act
+[] []
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c.bin
+7 7
+find a path [0, 13, 81, 93, 443, 563, 650]
+[dubug] collect invest 0 act
+find a path [0, 13, 81, 93, 443, 563, 641]
+[dubug] collect invest 0 act
+find a path [0, 13, 81, 93, 443, 563, 628]
+[dubug] collect invest 0 act
+Concat(Extract(255, 160, STORAGE_2[SHA3_8a_2]),
+       Extract(159, 0, CALLER_2)) ==============================
+find a path [0, 13, 81, 93, 443, 563, 1639, 1688, 1699]
+[dubug] collect invest 1 act
+find a path [0, 13, 81, 93, 443, 563, 1639, 1704, 1712]
+[dubug] collect invest 1 act
+find a path [0, 13, 81, 93, 443, 563, 1639, 1704, 1719, 1722, 1731, 1734]
+[dubug] collect invest 1 act
+find a path [0, 13, 81, 93, 443, 563, 1639, 1688, 1750, 1767, 1773, 1782, 1788]
+[dubug] collect invest 1 act
+[0] []
+****************************************
+LOST: non ponzi scheme contract ../BiAn/advDapp//0x8243607e1e1e05aa7087691e4447c0e8495e23bf.bin
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/bin/gen_exploit.py", line 128, in <module>
+    config['savefile'], config['initial-storage'], config['initial-balance'], config['flags'], 10)
+  File "/home/toor/SADPonzi/teether/bin/gen_exploit.py", line 56, in main
+    initial_storage, initial_balance, flags=flags, looplimit=looplimit)
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 92, in new_function
+    return timeout_wrapper(*args, **kwargs)
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 150, in __call__
+    while not self.ready:
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 165, in ready
+    self.cancel()
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 159, in cancel
+    _raise_exception(self.__timeout_exception, self.__exception_message)
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+StopIteration
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/bin/gen_exploit.py", line 128, in <module>
+    config['savefile'], config['initial-storage'], config['initial-balance'], config['flags'], 10)
+  File "/home/toor/SADPonzi/teether/bin/gen_exploit.py", line 56, in main
+    initial_storage, initial_balance, flags=flags, looplimit=looplimit)
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 92, in new_function
+    return timeout_wrapper(*args, **kwargs)
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 150, in __call__
+    while not self.ready:
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 165, in ready
+    self.cancel()
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 159, in cancel
+    _raise_exception(self.__timeout_exception, self.__exception_message)
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+StopIteration
+Traceback (most recent call last):
+  File "/home/toor/SADPonzi/teether/bin/gen_exploit.py", line 128, in <module>
+    config['savefile'], config['initial-storage'], config['initial-balance'], config['flags'], 10)
+  File "/home/toor/SADPonzi/teether/bin/gen_exploit.py", line 56, in main
+    initial_storage, initial_balance, flags=flags, looplimit=looplimit)
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 92, in new_function
+    return timeout_wrapper(*args, **kwargs)
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 150, in __call__
+    while not self.ready:
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 165, in ready
+    self.cancel()
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 159, in cancel
+    _raise_exception(self.__timeout_exception, self.__exception_message)
+  File "/home/toor/SADPonzi/venv/lib/python3.6/site-packages/timeout_decorator/timeout_decorator.py", line 45, in _raise_exception
+    raise exception()
+StopIteration
+End Benchmark at 2021年 01月 28日 星期四 10:59:35 CST
+================= Finished ============
