@@ -1,4 +1,4 @@
-# Move to https://github.com/Kenun99/tse_sadponzi
+# Moved to https://github.com/Kenun99/tse_sadponzi
 
 # SADPonzi: Detecting and Characterizing Ponzi Schemes inEthereum Smart Contracts
 
