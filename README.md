@@ -1,3 +1,5 @@
+# Move to https://github.com/Kenun99/tse_sadponzi
+
 # SADPonzi: Detecting and Characterizing Ponzi Schemes inEthereum Smart Contracts
 
 SADPonzi is a detection for Ponzi scheme smart contracts (ponzitract) base on symbolic execution technology. We implement it atop [teEther](https://github.com/nescio007/teether):
